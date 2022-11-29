@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100vh;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+body {
+    background-image: url('gort_2.jpg');
+    background-size: 20vw;
+    background-repeat: repeat;
+}
+
+h1,
+h2 {
+    color: magenta;
+    background-color: cyan;
+}
+
+img {
+    border: solid 5px greenyellow;
+}
